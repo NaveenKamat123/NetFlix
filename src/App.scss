@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&family=Belanosima&family=Hedvig+Letters+Sans&family=Mukta:wght@200&family=Open+Sans:ital,wght@1,500&family=Oswald:wght@300&family=Roboto+Mono&family=Roboto+Slab&family=Roboto:wght@300;400&family=Tilt+Prism&family=Young+Serif&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size:15px;
+    font-weight: 400px;
+    font-family: 'Roboto', sans-serif;
+ 
+    &::-webkit-scrollbar{
+        display: none;
+    }
+  
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    margin:1vmax;
+    font-size: 13px;
+    font-weight:100;
+}
+
+a,h2,p{
+    color:white;
+
+}
